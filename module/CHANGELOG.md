@@ -1,5 +1,13 @@
 # Change log
 
+## [1.3.1] - 2023-11-04
+### Added
+- Honeypot activation delay;
+### Changed
+- Honeypot place finder.
+### Fixed
+- Checkout guest and register issue.
+
 ## [1.3.0] - 2023-11-03:
 ### Fixed
 - Issue with the first login attempt of the admin.
