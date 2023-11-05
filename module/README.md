@@ -13,6 +13,8 @@ Compatible with OpenCart 3.x versions.
   - Product review.
   - Checkout page.
 * Invisible to customers.
+* Spam bots activity log.
+* Activation delay to catch fast non-human form submissions.
 * Does not modify system files (OC Events System).
 
 ## Live demo
