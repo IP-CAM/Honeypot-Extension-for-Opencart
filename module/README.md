@@ -18,7 +18,7 @@ Compatible with OpenCart 3.x versions.
 * Does not modify system files (OC Events System).
 
 ## Live demo
-* [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/module/honeypot) - module settings.
+* [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot) - module settings.
 
 ## License
 * [End-User License Agreement](../EULA.txt)

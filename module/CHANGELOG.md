@@ -1,5 +1,9 @@
 # Change log
 
+## [1.4.0] - 2023-11-16
+### Changed
+- Moved to Extension/Captcha.
+
 ## [1.3.3] - 2023-11-16
 ### Fixed
 - Checkout guest and register issue.

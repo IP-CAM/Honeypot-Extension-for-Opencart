@@ -7,23 +7,23 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * Extensions → Installer → [Upload]: `honeypot.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → #ocmod.space: honeypot → [Install]
+* Extensions → Extensions → Captchas → #ocmod.space: honeypot → [Install]
 
 ## Uninstall
-* Extensions → Extensions → Modules → #ocmod.space: honeypot → [Uninstall]
+* Extensions → Extensions → Captchas → #ocmod.space: honeypot → [Uninstall]
 * Extensions → Installer → Install History → `honeypot.ocmod.zip` → [Uninstall]
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
 
 ## Update
-* Extensions → Extensions → Modules → #ocmod.space: honeypot → [Uninstall]
+* Extensions → Extensions → Captchas → #ocmod.space: honeypot → [Uninstall]
 * Extensions → Installer → Install History → `honeypot.ocmod.zip` → [Uninstall]
 * Extensions → Installer → [Upload]: `honeypot.ocmod.zip`
 * Extensions → Modifications → [Refresh]
 * Dashboard → [Developer Settings] → [Refresh]
-* Extensions → Extensions → Modules → #ocmod.space: honeypot → [Install]
+* Extensions → Extensions → Captchas → #ocmod.space: honeypot → [Install]
 
 ## Configure
-* Extensions → Extensions → Modules → #ocmod.space: honeypot → [Edit]
+* Extensions → Extensions → Captchas → #ocmod.space: honeypot → [Edit]
 
 
