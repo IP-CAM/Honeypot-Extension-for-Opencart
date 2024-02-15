@@ -1,5 +1,9 @@
 # Change log
 
+## [1.4.1] - 2024-02-15
+### Internal
+- Minor code improvements.
+
 ## [1.4.0] - 2023-11-16
 ### Changed
 - Moved to Extension/Captcha.
