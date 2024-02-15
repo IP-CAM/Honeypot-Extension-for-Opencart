@@ -5,16 +5,17 @@
 Compatible with OpenCart 3.x versions.
 
 ## Features
-* Honeypots on the following pages:
-  - Account login and register pages.
-  - Affiliate login and register pages.
-  - Gift certificate purchase page.
-  - Contact us page.
-  - Product review.
-  - Checkout page.
+* Protects the following pages:
+  - Account login and registration.
+  - Affiliate login and registration.
+  - Gift certificate (voucher).
+  - Contact Us.
+  - Product Review.
+  - Checkout.
+  - Admin login.
 * Invisible to customers.
-* Spam bots activity log.
-* Activation delay to catch fast non-human form submissions.
+* Optionally logs spambots activity.
+* Catch non-human form submissions.
 * Does not modify system files (OC Events System).
 
 ## Live demo
