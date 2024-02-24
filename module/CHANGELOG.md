@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.0] - 2024-02-24
+### Added
+- Product returns protection.
+
 ## [1.4.1] - 2024-02-15
 ### Internal
 - Minor code improvements.

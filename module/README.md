@@ -11,6 +11,7 @@ Compatible with OpenCart 3.x versions.
   - Gift certificate (voucher).
   - Contact Us.
   - Product Review.
+  - Product Returns.
   - Checkout.
   - Admin login.
 * Invisible to customers.
@@ -20,6 +21,7 @@ Compatible with OpenCart 3.x versions.
 
 ## Live demo
 * [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot) - module settings.
+* [Store front](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot).
 
 ## License
 * [End-User License Agreement](../EULA.txt)
