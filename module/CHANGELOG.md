@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.1] - 2024-02-26
+### Fixed
+- PHP warning on admin login page.
+
 ## [1.5.0] - 2024-02-24
 ### Added
 - Product returns protection.
