@@ -1,5 +1,16 @@
 # Change log
 
+## [1.5.2] - 2024-03-25
+### Changed
+- Protection of guest/register checkout page is more human-friendly.
+### Improved
+- Honeypot placing method.
+### Internal
+- Removed redundant part from the admin twig file.
+- Minor code refactoring.
+### New
+- OC4-compatible version.
+
 ## [1.5.1] - 2024-02-26
 ### Fixed
 - PHP warning on admin login page.
