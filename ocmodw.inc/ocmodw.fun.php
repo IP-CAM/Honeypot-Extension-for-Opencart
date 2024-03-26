@@ -20,7 +20,15 @@ function get_clo() {
             ? ($options[MAKEZIP] == (int)$options[MAKEZIP] ? (int)$options[MAKEZIP] : false)
             : false;
 
-        $clo[WORKDIR] = !empty($options[WORKDIR]) ? $options[WORKDIR] : '';
+        if (isset($options[WORKDIR])) {
+            $options[WORKDIR]  = $options[WORKDIR] ?? '';
+        }
+
+        if ($options[WORKDIR] && !in_array($options[WORKDIR], ['2x', '3x', '4x', 'old'])) {
+            output('Allowed sub-directory values are: "2x", "3x", "4x", "old"!', true);
+        }
+
+        $clo[WORKDIR] = $options[WORKDIR] ?? '';
     } elseif (isset($options[GETHELP])) {
         $clo[GETHELP] = 1;
     } elseif (isset($options[MAKEFCL])) {
