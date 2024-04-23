@@ -1,5 +1,16 @@
 # Change log
 
+## [1.6.0] - 2024-04-23
+### Fixed
+- In the admin, the honeypot script was still running even after logging.
+### Improved
+- Honeypot placing method.
+- Minor improvements.
+### Removed
+- Product review writing protection (just allow to write reviews for logged customers only!).
+### Internal
+- Minor code refactoring.
+
 ## [1.5.2] - 2024-03-25
 ### Changed
 - Protection of guest/register checkout page is more human-friendly.
