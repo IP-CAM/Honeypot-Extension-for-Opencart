@@ -1,7 +1,7 @@
 # Honeypot
 
 ## Description
-**Honeypot** is an OpenCart antibot extension that prevents spambots from registering new accounts, placing fake orders or reviews, etc. Unlike traditional CAPTCHAs, which hinder user experience (UX) by interrupting and slowing down the customer journey, Honeypot is invisible to customers and requires no action from them.  
+**Honeypot** is an OpenCart antibot extension that prevents spambots from registering new accounts, , requests, fake orders, etc. Unlike traditional CAPTCHAs, which hinder user experience (UX) by interrupting and slowing down the customer journey, Honeypot is invisible to customers and requires no action from them.  
 Compatible with OpenCart 3x/4x versions.
 
 ## Features
