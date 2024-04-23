@@ -6,3 +6,5 @@ zip
 *.code-workspace
 *.fclignore
 *.pwd
+ocmodw.inc
+ocmodw.ini.php
