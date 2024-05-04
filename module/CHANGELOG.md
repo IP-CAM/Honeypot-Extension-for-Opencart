@@ -1,5 +1,12 @@
 # Change log
 
+## [1.6.1] - 2024-05-04
+### Fixed
+- target form detection (4x).
+- renamed admin folder support (4x).
+### Internal
+- Minor code refactoring.
+
 ## [1.6.0] - 2024-04-23
 ### Fixed
 - In the admin, the honeypot script was still running even after logging.
