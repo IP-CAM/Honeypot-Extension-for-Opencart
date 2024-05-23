@@ -1,3 +1,3 @@
 # TODO
 
-* Consider the possibility/feasibility of blocking by IP.
+* Maybe it is need to add free API for bot detection by IP

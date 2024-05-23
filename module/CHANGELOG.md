@@ -1,5 +1,12 @@
 # Change log
 
+## [2.0.0] - 2024-05-21
+### Removed
+- Admin and customer login protection (cause: redundant, better use better use store config option `Max Login Attempts` and `.htaccess` as the first line of defense for the admin login page).
+### Changed
+- Launch method. Now it looks alike other captchas, so the honeypot is now available wherever captcha download is provided. Additionnaly the honeypot is available on the gift certificate page, where is captcha is not provided by default.
+- Spambot behavior dection (a bit improved).
+
 ## [1.6.1] - 2024-05-04
 ### Fixed
 - target form detection (4x).
