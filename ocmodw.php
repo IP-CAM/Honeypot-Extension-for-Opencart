@@ -50,17 +50,15 @@ if (isset($clo[MAKEZIP]) && $clo[MAKEZIP] !== false) {
 
 		$zipfile = getConcatPath($zipdir, str_replace('-', '_', MODFILE) . ZIPEXT);
 
-		$mod_code = str_replace('--', '|', $basename);
-
-		define('MODCODE', $mod_code);
-
-		$mod_name = str_replace('|', ' ', $mod_code);
-		$mod_name = ucwords($mod_name);
-		$mod_name = str_replace(' ', '|', $mod_name);
-		$mod_name = str_replace('-', ' ', $mod_name);
-		$mod_name = ucwords($mod_name);
+		$mod_name = str_replace('--', '/', $basename);
+		$mod_name = str_replace('-', '_', $mod_name);
 
 		define('MODNAME', $mod_name);
+
+		$mod_code = '/ocmod.space/' . str_replace('--', '/', $basename);
+		$mod_code = str_replace('-', '_', $mod_code);
+
+		define('MODCODE', $mod_code);
 
 		if (chkdir($srcdir) && chkdir($zipdir)) {
 			if (is_file($zipfile)) {
