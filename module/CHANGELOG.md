@@ -1,5 +1,11 @@
 # Change log
 
+## [2.0.1] - 2024-05-23
+### Fixed
+- Removed redundant variable in template.
+### Changed
+- Added a unique ID, because some templates place multiple captchas on the same page at the same time (for example, the second one can be placed in modal windows).
+
 ## [2.0.0] - 2024-05-21
 ### Removed
 - Admin and customer login protection (cause: redundant, better use better use store config option `Max Login Attempts` and `.htaccess` as the first line of defense for the admin login page).
