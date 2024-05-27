@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.2] - 2024-05-27
+### Fixed
+- Autofilling issue.
+
 ## [2.0.1] - 2024-05-23
 ### Fixed
 - Removed redundant variable in template.
