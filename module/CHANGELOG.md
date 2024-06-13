@@ -2,7 +2,7 @@
 
 ## [2.1.0] - 2024-06-13
 ### Added
-- Behaviour-based detection as an option.
+- Behavior-based detection as an option.
 
 ## [2.0.2] - 2024-05-27
 ### Fixed
