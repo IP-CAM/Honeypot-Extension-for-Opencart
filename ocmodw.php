@@ -46,19 +46,26 @@ if (isset($clo[MAKEZIP]) && $clo[MAKEZIP] !== false) {
 			unset($part);
 		}
 
-		define('MODFILE', $basename);
+		define('XMLCODE', $basename);
 
-		$zipfile = getConcatPath($zipdir, str_replace('-', '_', MODFILE) . ZIPEXT);
+		$general_name = str_replace('--', ' | ', $basename);
+		$general_name = str_replace('-', ' ', $general_name);
+		$general_name = ucwords($general_name);
+		$general_name = str_replace(' | ', '|', $general_name);
 
-		$mod_name = str_replace('--', '/', $basename);
-		$mod_name = str_replace('-', '_', $mod_name);
+		define('GENERAL_NAME', $general_name);
 
-		define('MODNAME', $mod_name);
+		$short_name = str_replace('--', '/', $basename);
+		$short_name = str_replace('-', '_', $short_name);
 
-		$mod_code = '/ocmod.space/' . str_replace('--', '/', $basename);
-		$mod_code = str_replace('-', '_', $mod_code);
+		define('SHORT_NAME', $short_name);
 
-		define('MODCODE', $mod_code);
+		$full_name = '/ocmod.space/' . str_replace('--', '/', $basename);
+		$full_name = str_replace('-', '_', $full_name);
+
+		define('FULL_NAME', $full_name);
+
+		$zipfile = getConcatPath($zipdir, str_replace('-', '_', $basename) . ZIPEXT);
 
 		if (chkdir($srcdir) && chkdir($zipdir)) {
 			if (is_file($zipfile)) {
