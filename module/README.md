@@ -3,7 +3,7 @@
 ## Description
 **Honeypot** is an OpenCart anti-spambot extension that prevents spambots from registering new accounts, placing requests, fake orders, etc.
 What is a honeypot? It is an anti-spam technique that baits bots into filling out hidden form fields and then rejects their form submissions. Human customers cannot see the field so they don’t fill it out. However, bots will download the HTML code and attempt to fill out every field within the form. We can use this behavior to guess which submissions are from automated bots and reject them. Unlike traditional CAPTCHAs, which hinder user experience (UX) by interrupting and slowing down the customer journey, honeypot is invisible to customers and requires no action from them.  
-Compatible with OpenCart 3x/4x versions.
+Compatible with OpenCart 3.x/4.x versions.
 
 ## Features
 * Two-layer protection.
@@ -11,7 +11,7 @@ Compatible with OpenCart 3x/4x versions.
 * Along with the standard pages, it also protects the page of gift certificates (vouchers).
 * Invisible to customers.
 * Spambot attempts log.
-* Journal theme compatibility (as with all others).
+* Journal theme compatibility.
 * Does not modify files due to the use of the OC Events System.
 
 ## Live demo

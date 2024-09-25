@@ -1,5 +1,11 @@
 # Change log
 
+## [2.2.0] - 2024-09-25
+### Added
+- Deferred JS-script loading.
+### Fixed
+- Internals for better compatibility.
+
 ## [2.1.0] - 2024-06-13
 ### Added
 - Behavior-based detection as an option.
@@ -16,7 +22,7 @@
 
 ## [2.0.0] - 2024-05-21
 ### Removed
-- Admin and customer login protection (cause: redundant, better use better use store config option `Max Login Attempts` and `.htaccess` as the first line of defense for the admin login page).
+- Admin and customer login protection (cause: redundant, better use store config option `Max Login Attempts` and `.htaccess` as the first line of defense for the admin login page).
 ### Changed
 - Launch method. Now it looks alike other captchas, so the honeypot is now available wherever captcha download is provided. Additionnaly the honeypot is available on the gift certificate page, where is captcha is not provided by default.
 - Spambot behavior dection (a bit improved).
