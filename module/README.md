@@ -12,12 +12,12 @@ Compatible with OpenCart 3.x/4.x versions and PHP >= 7.1.
 ## Features
 
 * Two-layer protection.
-* Easy to install and configure (just like any other captcha) .
-* Along with the standard pages, it also protects the page of gift certificates (vouchers).
+* Easy to install and configure, just like any other captcha.
+* In addition to standard pages, it also protects the gift certificates (vouchers) page (OC 3.x versions only).
 * Invisible to customers.
-* Spambot attempts log.
-* Journal theme compatibility.
-* Does not modify files due to the use of the OC Events System.
+* Logs spambot attempts.
+* Compatible with the Journal theme.
+* Does not modify files thanks to the OC Events System.
 
 ## Restrictions
 
