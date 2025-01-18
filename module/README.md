@@ -21,7 +21,7 @@ Compatible with OpenCart 3.x/4.x versions and PHP >= 7.1.
 
 ## Restrictions
 
-The module does not work and is not supported for stores located in the following domains: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
+This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
 
 ## Live demo
 
