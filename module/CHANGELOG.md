@@ -2,8 +2,8 @@
 
 ## [2.4.0] - 2025-01-14
 ### Changed
-- The bot detection method has become more compatible with 3rd-party themes like Journal.
-- Advanced bot detection is now always active.
+- The bot detection method is now more compatible with third-party themes, such as Journal.
+- Advanced bot detection is now always enabled.
 
 ## [2.3.0]
 - Unreleased
