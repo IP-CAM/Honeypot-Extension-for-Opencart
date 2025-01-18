@@ -1,10 +1,7 @@
-_inc
-doc
-pic
-src
-zip
-*.code-workspace
-*.fclignore
-*.pwd
-ocmodw.inc
-ocmodw.ini.php
+/ocmscp/
+/*.code-workspace
+/.basex64.key
+/.include.fls
+/.module.cfg
+/.php-cs-fixer.php_cs
+/ocmscp.py

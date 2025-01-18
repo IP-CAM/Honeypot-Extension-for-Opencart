@@ -1,5 +1,13 @@
 # Change log
 
+## [2.4.0] - 2025-01-14
+### Changed
+- The bot detection method has become more compatible with 3rd-party themes like Journal.
+- Advanced bot detection is now always active.
+
+## [2.3.0]
+- Unreleased
+
 ## [2.2.0] - 2024-09-25
 ### Added
 - Deferred JS-script loading.
