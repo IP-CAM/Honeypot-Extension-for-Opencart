@@ -1,5 +1,9 @@
 # Change log
 
+## [2.4.1] - 2025-01-20
+### Fixed
+- Event handlers.
+
 ## [2.4.0] - 2025-01-14
 ### Changed
 - The bot detection method is now more compatible with third-party themes, such as Journal.
