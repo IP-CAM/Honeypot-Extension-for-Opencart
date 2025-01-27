@@ -11,6 +11,8 @@ Compatible with OpenCart 3.x/4.x versions and PHP >= 7.1.
 
 Unlike traditional CAPTCHAs, which disrupt the user experience (UX) by creating friction and slowing down the customer journey, honeypot protection is invisible to users and requires no action from them.
 
+[![Video](https://img.youtube.com/vi/FQ-DIdXoNWM/0.jpg)](https://www.youtube.com/watch?v=FQ-DIdXoNWM)
+
 ## Features
 
 * Two-layer protection.
