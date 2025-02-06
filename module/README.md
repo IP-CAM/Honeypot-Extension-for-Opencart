@@ -34,7 +34,7 @@ This module does not work and is not supported for stores using the following do
 
 ## License
 
-* [End-User License Agreement](../EULA.txt)
+* [End-User License Agreement](../EULA.en.txt)
 
 ## Download
 

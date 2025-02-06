@@ -13,4 +13,4 @@ Compatible with OpenCart 3.x/4.x versions and PHP >= 7.1. [Read more...](./modul
 
 ## License
 
-* [End-User License Agreement](EULA.txt)
+* [End-User License Agreement](EULA.en.txt)
