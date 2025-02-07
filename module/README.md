@@ -33,4 +33,4 @@ This module does not work and is not supported for stores using the following do
 [End-User License Agreement](../EULA.en.txt)
 
 ## Download
-* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45552)
+[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=45552)
