@@ -25,7 +25,7 @@ Unlike traditional CAPTCHAs, which disrupt the user experience (UX) by creating 
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
 
 ## Live demo
-* [Admin](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot) - module settings.
+* [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot) - module settings.
 * [Store front](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot)
 * [Installation video](https://www.youtube.com/watch?v=FQ-DIdXoNWM)
 
