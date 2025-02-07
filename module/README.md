@@ -26,7 +26,7 @@ This module does not work and is not supported for stores using the following do
 
 ## Live demo
 * [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot) - module settings.
-* [Store front](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot)
+* [Storefront](https://demo.ocmod.space/a/admin/index.php?route=extension/captcha/honeypot)
 * [Installation video](https://www.youtube.com/watch?v=FQ-DIdXoNWM)
 
 ## License
