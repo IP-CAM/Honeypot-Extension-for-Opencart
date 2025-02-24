@@ -1,5 +1,9 @@
 # Change log
 
+## [2.4.2] - 2025-01-20
+### Fixed
+- Type declarations.
+
 ## [2.4.1] - 2025-01-20
 ### Fixed
 - Event handlers.
