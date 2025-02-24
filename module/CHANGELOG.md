@@ -1,6 +1,6 @@
 # Change log
 
-## [2.4.2] - 2025-01-20
+## [2.4.2] - 2025-02-24
 ### Fixed
 - Type declarations.
 
