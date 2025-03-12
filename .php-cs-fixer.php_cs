@@ -217,6 +217,7 @@ return $config->
 		'switch_case_space'                             => true,
 		'switch_continue_to_break'                      => true,
 		'ternary_operator_spaces'                       => true,
+		'ternary_to_null_coalescing'					=> false,
 		'trailing_comma_in_multiline'                   => false,
 		'trim_array_spaces'                             => true,
 		'types_spaces'                                  => true,
