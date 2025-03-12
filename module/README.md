@@ -3,7 +3,7 @@
 ## Description
 The **Honeypot** is an OpenCart anti-spambot extension that prevents spambots from registering new accounts, submitting requests, and placing fake orders.
 
-Compatible with OpenCart 3.x/4.x versions and PHP ≥ 7.x.
+Compatible with OpenCart 2.x (PHP ≥ 5.6) and 3.x - 4.x (PHP ≥ 7.x).
 
 **Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
 
