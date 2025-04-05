@@ -25,9 +25,6 @@ REMEMBER! YOU ARE FULLY RESPONSIBLE FOR ANY DAMAGE TO YOUR STORE FILES OR LOSS O
 * System → Settings → Option → Captcha → **/ocmod.space/honeypot**.
 
 ## Update
-* {2.3.x-3.x} Extensions → Installer → Install History → `honeypot.ocmod.zip` → [Uninstall].
-* {2.3.x-3.x} Extensions → Installer → [Upload]: `honeypot.ocmod.zip`.
-* {2.3.x-3.x} Extensions → Modifications → [Refresh].
-* {2.3.x-3.x} Dashboard → [Developer Settings] → [Refresh].
-* {2.3.x-3.x} Extensions → Extensions → Modules → **/ocmod.space/honeypot** → [Install] → [Edit] → [Save].
-* {4.x} Uninstall → Install → Configure.
+* Follow the **Uninstall** instructions.
+* Follow the **Install** instructions.
+* Follow the **Configure** instructions.
