@@ -15,7 +15,7 @@ Unlike traditional CAPTCHAs, which disrupt the user experience (UX) by creating 
 ## Features
 * Two-layer protection.
 * Easy to install and configure, just like any other captcha.
-* In addition to standard pages, it also protects the gift certificates (vouchers) page (OC 3.x versions only).
+* In addition to standard pages, this also protects the gift certificate and forgotten password pages.
 * Invisible to customers.
 * Logs spambot attempts.
 * Compatible with the Journal theme.
