@@ -1,5 +1,11 @@
 # Change log
 
+## [2.6.0] - 2025-04-04
+### Added
+- Forgotten Password page protection.
+### Internal
+- Code improvements.
+
 ## [2.5.0] - 2025-03-12
 ### Fixed
 - JS-script and CSS-stylesheet links.
