@@ -1,5 +1,9 @@
 # Change log
 
+## [2.6.1] - 2025-04-07
+### Fixed
+- Store settings page header.
+
 ## [2.6.0] - 2025-04-04
 ### Added
 - Forgotten Password page protection.
