@@ -3,6 +3,8 @@
 ## [2.6.1] - 2025-04-07
 ### Fixed
 - Store settings page header.
+### Internal
+- Rename function.
 
 ## [2.6.0] - 2025-04-04
 ### Added
