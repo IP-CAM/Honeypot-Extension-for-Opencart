@@ -16,7 +16,7 @@
 ### Fixed
 - JS-script and CSS-stylesheet links.
 ### Added
-- Compatibility with OpenCart 2.x (PHP ≥ 5.6).
+- Compatibility with OpenCart 2.x (PHP 5.6).
 ### Internal
 - File structure was changed.
 

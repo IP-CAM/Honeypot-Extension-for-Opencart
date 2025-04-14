@@ -3,7 +3,7 @@
 ## Description
 The **Honeypot** is an OpenCart anti-spambot extension that prevents spambots from registering new accounts, submitting requests, and placing fake orders.
 
-Compatible with OpenCart 2.3.x (PHP ≥ 5.6) and 3.x - 4.x (PHP ≥ 7.x).
+Compatible with OpenCart 2.3.x(PHP 5.6) and 3.x/4.x (PHP ≥ 7.x).
 
 **Note**: The source code is encrypted for security reasons. For purchasing and licensing details, please refer to the OpenCart Marketplace link in the **Download** section below.
 
@@ -13,13 +13,12 @@ Compatible with OpenCart 2.3.x (PHP ≥ 5.6) and 3.x - 4.x (PHP ≥ 7.x).
 Unlike traditional CAPTCHAs, which disrupt the user experience (UX) by creating friction and slowing down the customer journey, honeypot protection is invisible to users and requires no action from them.
 
 ## Features
-* Two-layer protection.
 * Easy to install and configure, just like any other captcha.
 * In addition to standard pages, this also protects the gift certificate and forgotten password pages.
 * Invisible to customers.
-* Logs spambot attempts.
-* Compatible with the Journal theme.
-* Does not modify files thanks to the OC Events System.
+* Spambot attempts logging.
+* No core file modifications.
+* Seamless compatibility with the **Journal** theme.
 
 ## Restrictions
 This module does not work and is not supported for stores using the following domain extensions: `.ru`,`.рф`,`.рус`,`.by`,`.бел`,`.su`.
